@@ -1,0 +1,3 @@
+average price 39.79
+# of 5-star books: 1
+in stock: 100.00%

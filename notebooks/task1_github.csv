@@ -1,0 +1,4 @@
+name,stars,forks,language,open_issues,created_date
+tensorflow/tensorflow,194009,75218,C++,3616,2015-11-07
+pytorch/pytorch,97991,27087,Python,18088,2016-08-13
+scikit-learn/scikit-learn,65306,26749,Python,2133,2010-08-17

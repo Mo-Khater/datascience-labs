@@ -1,0 +1,701 @@
+{
+  "saved_at": "2026-03-06T10:08:29.186021",
+  "books": [
+    {
+      "title": "Sharp Objects",
+      "price": 47.82,
+      "rating": 4,
+      "availability": "In stock",
+      "category": "Mystery"
+    },
+    {
+      "title": "In a Dark, Dark Wood",
+      "price": 19.63,
+      "rating": 1,
+      "availability": "In stock",
+      "category": "Mystery"
+    },
+    {
+      "title": "The Past Never Ends",
+      "price": 56.5,
+      "rating": 4,
+      "availability": "In stock",
+      "category": "Mystery"
+    },
+    {
+      "title": "A Murder in Time",
+      "price": 16.64,
+      "rating": 1,
+      "availability": "In stock",
+      "category": "Mystery"
+    },
+    {
+      "title": "The Murder of Roger Ackroyd (Hercule Poirot #4)",
+      "price": 44.1,
+      "rating": 4,
+      "availability": "In stock",
+      "category": "Mystery"
+    },
+    {
+      "title": "The Last Mile (Amos Decker #2)",
+      "price": 54.21,
+      "rating": 2,
+      "availability": "In stock",
+      "category": "Mystery"
+    },
+    {
+      "title": "That Darkness (Gardiner and Renner #1)",
+      "price": 13.92,
+      "rating": 1,
+      "availability": "In stock",
+      "category": "Mystery"
+    },
+    {
+      "title": "Tastes Like Fear (DI Marnie Rome #3)",
+      "price": 10.69,
+      "rating": 1,
+      "availability": "In stock",
+      "category": "Mystery"
+    },
+    {
+      "title": "A Time of Torment (Charlie Parker #14)",
+      "price": 48.35,
+      "rating": 5,
+      "availability": "In stock",
+      "category": "Mystery"
+    },
+    {
+      "title": "A Study in Scarlet (Sherlock Holmes #1)",
+      "price": 16.73,
+      "rating": 2,
+      "availability": "In stock",
+      "category": "Mystery"
+    },
+    {
+      "title": "Poisonous (Max Revere Novels #3)",
+      "price": 26.8,
+      "rating": 3,
+      "availability": "In stock",
+      "category": "Mystery"
+    },
+    {
+      "title": "Murder at the 42nd Street Library (Raymond Ambler #1)",
+      "price": 54.36,
+      "rating": 4,
+      "availability": "In stock",
+      "category": "Mystery"
+    },
+    {
+      "title": "Most Wanted",
+      "price": 35.28,
+      "rating": 3,
+      "availability": "In stock",
+      "category": "Mystery"
+    },
+    {
+      "title": "Hide Away (Eve Duncan #20)",
+      "price": 11.84,
+      "rating": 1,
+      "availability": "In stock",
+      "category": "Mystery"
+    },
+    {
+      "title": "Boar Island (Anna Pigeon #19)",
+      "price": 59.48,
+      "rating": 3,
+      "availability": "In stock",
+      "category": "Mystery"
+    },
+    {
+      "title": "The Widow",
+      "price": 27.26,
+      "rating": 2,
+      "availability": "In stock",
+      "category": "Mystery"
+    },
+    {
+      "title": "Playing with Fire",
+      "price": 13.71,
+      "rating": 3,
+      "availability": "In stock",
+      "category": "Mystery"
+    },
+    {
+      "title": "What Happened on Beale Street (Secrets of the South Mysteries #2)",
+      "price": 25.37,
+      "rating": 5,
+      "availability": "In stock",
+      "category": "Mystery"
+    },
+    {
+      "title": "The Bachelor Girl's Guide to Murder (Herringford and Watts Mysteries #1)",
+      "price": 52.3,
+      "rating": 5,
+      "availability": "In stock",
+      "category": "Mystery"
+    },
+    {
+      "title": "Delivering the Truth (Quaker Midwife Mystery #1)",
+      "price": 20.89,
+      "rating": 4,
+      "availability": "In stock",
+      "category": "Mystery"
+    },
+    {
+      "title": "The Mysterious Affair at Styles (Hercule Poirot #1)",
+      "price": 24.8,
+      "rating": 4,
+      "availability": "In stock",
+      "category": "Mystery"
+    },
+    {
+      "title": "In the Woods (Dublin Murder Squad #1)",
+      "price": 38.38,
+      "rating": 2,
+      "availability": "In stock",
+      "category": "Mystery"
+    },
+    {
+      "title": "The Silkworm (Cormoran Strike #2)",
+      "price": 23.05,
+      "rating": 5,
+      "availability": "In stock",
+      "category": "Mystery"
+    },
+    {
+      "title": "The Exiled",
+      "price": 43.45,
+      "rating": 3,
+      "availability": "In stock",
+      "category": "Mystery"
+    },
+    {
+      "title": "The Cuckoo's Calling (Cormoran Strike #1)",
+      "price": 19.21,
+      "rating": 1,
+      "availability": "In stock",
+      "category": "Mystery"
+    },
+    {
+      "title": "Extreme Prey (Lucas Davenport #26)",
+      "price": 25.4,
+      "rating": 3,
+      "availability": "In stock",
+      "category": "Mystery"
+    },
+    {
+      "title": "Career of Evil (Cormoran Strike #3)",
+      "price": 24.72,
+      "rating": 2,
+      "availability": "In stock",
+      "category": "Mystery"
+    },
+    {
+      "title": "The No. 1 Ladies' Detective Agency (No. 1 Ladies' Detective Agency #1)",
+      "price": 57.7,
+      "rating": 4,
+      "availability": "In stock",
+      "category": "Mystery"
+    },
+    {
+      "title": "The Girl You Lost",
+      "price": 12.29,
+      "rating": 5,
+      "availability": "In stock",
+      "category": "Mystery"
+    },
+    {
+      "title": "The Girl In The Ice (DCI Erika Foster #1)",
+      "price": 15.85,
+      "rating": 3,
+      "availability": "In stock",
+      "category": "Mystery"
+    },
+    {
+      "title": "Blood Defense (Samantha Brinkman #1)",
+      "price": 20.3,
+      "rating": 3,
+      "availability": "In stock",
+      "category": "Mystery"
+    },
+    {
+      "title": "1st to Die (Women's Murder Club #1)",
+      "price": 53.98,
+      "rating": 1,
+      "availability": "In stock",
+      "category": "Mystery"
+    },
+    {
+      "title": "Mesaerion: The Best Science Fiction Stories 1800-1849",
+      "price": 37.59,
+      "rating": 1,
+      "availability": "In stock",
+      "category": "Science Fiction"
+    },
+    {
+      "title": "Join",
+      "price": 35.67,
+      "rating": 5,
+      "availability": "In stock",
+      "category": "Science Fiction"
+    },
+    {
+      "title": "William Shakespeare's Star Wars: Verily, A New Hope (William Shakespeare's Star Wars #4)",
+      "price": 43.3,
+      "rating": 4,
+      "availability": "In stock",
+      "category": "Science Fiction"
+    },
+    {
+      "title": "The Project",
+      "price": 10.65,
+      "rating": 1,
+      "availability": "In stock",
+      "category": "Science Fiction"
+    },
+    {
+      "title": "Soft Apocalypse",
+      "price": 26.12,
+      "rating": 2,
+      "availability": "In stock",
+      "category": "Science Fiction"
+    },
+    {
+      "title": "Sleeping Giants (Themis Files #1)",
+      "price": 48.74,
+      "rating": 1,
+      "availability": "In stock",
+      "category": "Science Fiction"
+    },
+    {
+      "title": "Arena",
+      "price": 21.36,
+      "rating": 4,
+      "availability": "In stock",
+      "category": "Science Fiction"
+    },
+    {
+      "title": "Foundation (Foundation (Publication Order) #1)",
+      "price": 32.42,
+      "rating": 1,
+      "availability": "In stock",
+      "category": "Science Fiction"
+    },
+    {
+      "title": "The Restaurant at the End of the Universe (Hitchhiker's Guide to the Galaxy #2)",
+      "price": 10.92,
+      "rating": 1,
+      "availability": "In stock",
+      "category": "Science Fiction"
+    },
+    {
+      "title": "Ready Player One",
+      "price": 19.07,
+      "rating": 4,
+      "availability": "In stock",
+      "category": "Science Fiction"
+    },
+    {
+      "title": "Life, the Universe and Everything (Hitchhiker's Guide to the Galaxy #3)",
+      "price": 33.26,
+      "rating": 2,
+      "availability": "In stock",
+      "category": "Science Fiction"
+    },
+    {
+      "title": "Dune (Dune #1)",
+      "price": 54.86,
+      "rating": 1,
+      "availability": "In stock",
+      "category": "Science Fiction"
+    },
+    {
+      "title": "Do Androids Dream of Electric Sheep? (Blade Runner #1)",
+      "price": 51.48,
+      "rating": 1,
+      "availability": "In stock",
+      "category": "Science Fiction"
+    },
+    {
+      "title": "Three Wishes (River of Time: California #1)",
+      "price": 44.18,
+      "rating": 2,
+      "availability": "In stock",
+      "category": "Science Fiction"
+    },
+    {
+      "title": "The Last Girl (The Dominion Trilogy #1)",
+      "price": 36.26,
+      "rating": 2,
+      "availability": "In stock",
+      "category": "Science Fiction"
+    },
+    {
+      "title": "Having the Barbarian's Baby (Ice Planet Barbarians #7.5)",
+      "price": 34.96,
+      "rating": 4,
+      "availability": "In stock",
+      "category": "Science Fiction"
+    },
+    {
+      "title": "Unicorn Tracks",
+      "price": 18.78,
+      "rating": 3,
+      "availability": "In stock",
+      "category": "Fantasy"
+    },
+    {
+      "title": "Saga, Volume 6 (Saga (Collected Editions) #6)",
+      "price": 25.02,
+      "rating": 3,
+      "availability": "In stock",
+      "category": "Fantasy"
+    },
+    {
+      "title": "Princess Between Worlds (Wide-Awake Princess #5)",
+      "price": 13.34,
+      "rating": 5,
+      "availability": "In stock",
+      "category": "Fantasy"
+    },
+    {
+      "title": "Masks and Shadows",
+      "price": 56.4,
+      "rating": 2,
+      "availability": "In stock",
+      "category": "Fantasy"
+    },
+    {
+      "title": "Crown of Midnight (Throne of Glass #2)",
+      "price": 43.29,
+      "rating": 3,
+      "availability": "In stock",
+      "category": "Fantasy"
+    },
+    {
+      "title": "Avatar: The Last Airbender: Smoke and Shadow, Part 3 (Smoke and Shadow #3)",
+      "price": 28.09,
+      "rating": 2,
+      "availability": "In stock",
+      "category": "Fantasy"
+    },
+    {
+      "title": "A Court of Thorns and Roses (A Court of Thorns and Roses #1)",
+      "price": 52.37,
+      "rating": 1,
+      "availability": "In stock",
+      "category": "Fantasy"
+    },
+    {
+      "title": "Throne of Glass (Throne of Glass #1)",
+      "price": 35.07,
+      "rating": 3,
+      "availability": "In stock",
+      "category": "Fantasy"
+    },
+    {
+      "title": "The Glittering Court (The Glittering Court #1)",
+      "price": 44.28,
+      "rating": 1,
+      "availability": "In stock",
+      "category": "Fantasy"
+    },
+    {
+      "title": "Hollow City (Miss Peregrineâs Peculiar Children #2)",
+      "price": 42.98,
+      "rating": 1,
+      "availability": "In stock",
+      "category": "Fantasy"
+    },
+    {
+      "title": "The Star-Touched Queen",
+      "price": 46.02,
+      "rating": 5,
+      "availability": "In stock",
+      "category": "Fantasy"
+    },
+    {
+      "title": "The Hidden Oracle (The Trials of Apollo #1)",
+      "price": 52.26,
+      "rating": 2,
+      "availability": "In stock",
+      "category": "Fantasy"
+    },
+    {
+      "title": "The Bane Chronicles (The Bane Chronicles #1-11)",
+      "price": 44.73,
+      "rating": 4,
+      "availability": "In stock",
+      "category": "Fantasy"
+    },
+    {
+      "title": "Island of Dragons (Unwanteds #7)",
+      "price": 29.65,
+      "rating": 1,
+      "availability": "In stock",
+      "category": "Fantasy"
+    },
+    {
+      "title": "Demigods & Magicians: Percy and Annabeth Meet the Kanes (Percy Jackson & Kane Chronicles Crossover #1-3)",
+      "price": 37.51,
+      "rating": 5,
+      "availability": "In stock",
+      "category": "Fantasy"
+    },
+    {
+      "title": "City of Glass (The Mortal Instruments #3)",
+      "price": 56.02,
+      "rating": 4,
+      "availability": "In stock",
+      "category": "Fantasy"
+    },
+    {
+      "title": "Searching for Meaning in Gailana",
+      "price": 38.73,
+      "rating": 1,
+      "availability": "In stock",
+      "category": "Fantasy"
+    },
+    {
+      "title": "A Shard of Ice (The Black Symphony Saga #1)",
+      "price": 56.63,
+      "rating": 3,
+      "availability": "In stock",
+      "category": "Fantasy"
+    },
+    {
+      "title": "King's Folly (The Kinsman Chronicles #1)",
+      "price": 39.61,
+      "rating": 5,
+      "availability": "In stock",
+      "category": "Fantasy"
+    },
+    {
+      "title": "Every Heart a Doorway (Every Heart A Doorway #1)",
+      "price": 12.16,
+      "rating": 5,
+      "availability": "In stock",
+      "category": "Fantasy"
+    },
+    {
+      "title": "A Gathering of Shadows (Shades of Magic #2)",
+      "price": 44.81,
+      "rating": 4,
+      "availability": "In stock",
+      "category": "Fantasy"
+    },
+    {
+      "title": "The Raven Boys (The Raven Cycle #1)",
+      "price": 57.74,
+      "rating": 4,
+      "availability": "In stock",
+      "category": "Fantasy"
+    },
+    {
+      "title": "The False Prince (The Ascendance Trilogy #1)",
+      "price": 56.0,
+      "rating": 5,
+      "availability": "In stock",
+      "category": "Fantasy"
+    },
+    {
+      "title": "Tell the Wind and Fire",
+      "price": 45.51,
+      "rating": 3,
+      "availability": "In stock",
+      "category": "Fantasy"
+    },
+    {
+      "title": "A Feast for Crows (A Song of Ice and Fire #4)",
+      "price": 17.21,
+      "rating": 4,
+      "availability": "In stock",
+      "category": "Fantasy"
+    },
+    {
+      "title": "The Demonists (Demonist #1)",
+      "price": 52.11,
+      "rating": 2,
+      "availability": "In stock",
+      "category": "Fantasy"
+    },
+    {
+      "title": "The Beast (Black Dagger Brotherhood #14)",
+      "price": 46.08,
+      "rating": 5,
+      "availability": "In stock",
+      "category": "Fantasy"
+    },
+    {
+      "title": "Paper and Fire (The Great Library #2)",
+      "price": 49.45,
+      "rating": 5,
+      "availability": "In stock",
+      "category": "Fantasy"
+    },
+    {
+      "title": "Harry Potter and the Order of the Phoenix (Harry Potter #5)",
+      "price": 31.63,
+      "rating": 4,
+      "availability": "In stock",
+      "category": "Fantasy"
+    },
+    {
+      "title": "Harry Potter and the Half-Blood Prince (Harry Potter #6)",
+      "price": 48.75,
+      "rating": 5,
+      "availability": "In stock",
+      "category": "Fantasy"
+    },
+    {
+      "title": "Harry Potter and the Chamber of Secrets (Harry Potter #2)",
+      "price": 14.74,
+      "rating": 1,
+      "availability": "In stock",
+      "category": "Fantasy"
+    },
+    {
+      "title": "The Rose & the Dagger (The Wrath and the Dawn #2)",
+      "price": 58.64,
+      "rating": 4,
+      "availability": "In stock",
+      "category": "Fantasy"
+    },
+    {
+      "title": "Soldier (Talon #3)",
+      "price": 24.72,
+      "rating": 2,
+      "availability": "In stock",
+      "category": "Fantasy"
+    },
+    {
+      "title": "Midnight Riot (Peter Grant/ Rivers of London - books #1)",
+      "price": 55.46,
+      "rating": 2,
+      "availability": "In stock",
+      "category": "Fantasy"
+    },
+    {
+      "title": "Heir to the Sky",
+      "price": 44.07,
+      "rating": 4,
+      "availability": "In stock",
+      "category": "Fantasy"
+    },
+    {
+      "title": "Eragon (The Inheritance Cycle #1)",
+      "price": 43.87,
+      "rating": 3,
+      "availability": "In stock",
+      "category": "Fantasy"
+    },
+    {
+      "title": "Darkfever (Fever #1)",
+      "price": 56.02,
+      "rating": 1,
+      "availability": "In stock",
+      "category": "Fantasy"
+    },
+    {
+      "title": "Ash",
+      "price": 22.06,
+      "rating": 4,
+      "availability": "In stock",
+      "category": "Fantasy"
+    },
+    {
+      "title": "A Storm of Swords (A Song of Ice and Fire #3)",
+      "price": 31.22,
+      "rating": 2,
+      "availability": "In stock",
+      "category": "Fantasy"
+    },
+    {
+      "title": "Vampire Girl (Vampire Girl #1)",
+      "price": 53.82,
+      "rating": 2,
+      "availability": "In stock",
+      "category": "Fantasy"
+    },
+    {
+      "title": "The Silent Twin (Detective Jennifer Knight #3)",
+      "price": 36.25,
+      "rating": 3,
+      "availability": "In stock",
+      "category": "Fantasy"
+    },
+    {
+      "title": "The Mirror & the Maze (The Wrath and the Dawn #1.5)",
+      "price": 29.38,
+      "rating": 1,
+      "availability": "In stock",
+      "category": "Fantasy"
+    },
+    {
+      "title": "Sister Sable (The Mad Queen #1)",
+      "price": 13.33,
+      "rating": 3,
+      "availability": "In stock",
+      "category": "Fantasy"
+    },
+    {
+      "title": "Shadow Rites (Jane Yellowrock #10)",
+      "price": 21.72,
+      "rating": 4,
+      "availability": "In stock",
+      "category": "Fantasy"
+    },
+    {
+      "title": "Origins (Alphas 0.5)",
+      "price": 28.99,
+      "rating": 1,
+      "availability": "In stock",
+      "category": "Fantasy"
+    },
+    {
+      "title": "One Second (Seven #7)",
+      "price": 52.94,
+      "rating": 2,
+      "availability": "In stock",
+      "category": "Fantasy"
+    },
+    {
+      "title": "Myriad (Prentor #1)",
+      "price": 58.75,
+      "rating": 4,
+      "availability": "In stock",
+      "category": "Fantasy"
+    }
+  ],
+  "state": {
+    "Mystery": {
+      "next_page": 4,
+      "next_url": "http://books.toscrape.com/catalogue/category/books/mystery_3/page-2.html",
+      "last_completed_page": 3,
+      "last_added_count": 0
+    },
+    "Science Fiction": {
+      "next_page": 4,
+      "next_url": null,
+      "last_completed_page": 3,
+      "last_added_count": 0
+    },
+    "Fantasy": {
+      "next_page": 4,
+      "next_url": null,
+      "last_completed_page": 3,
+      "last_added_count": 8
+    }
+  },
+  "progress_tracker": {
+    "Mystery|1": "completed",
+    "Mystery|2": "completed",
+    "Science Fiction|1": "completed",
+    "Fantasy|1": "completed",
+    "Fantasy|2": "completed",
+    "Fantasy|3": "completed",
+    "Mystery|3": "completed",
+    "Science Fiction|2": "completed",
+    "Science Fiction|3": "completed"
+  }
+}

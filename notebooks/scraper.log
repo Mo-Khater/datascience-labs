@@ -1,0 +1,29 @@
+2026-03-06 11:34:22,090 - INFO - robots.txt check for http://books.toscrape.com/catalogue/page-1.html: True
+2026-03-06 11:34:24,689 - INFO - Start category Mystery from page 1
+2026-03-06 11:34:25,255 - INFO - Completed Mystery|1; added 20 books; total 20
+2026-03-06 11:34:25,626 - INFO - Completed Mystery|2; added 12 books; total 32
+2026-03-06 11:34:25,626 - INFO - Start category Science Fiction from page 1
+2026-03-06 11:34:26,199 - INFO - Completed Science Fiction|1; added 16 books; total 48
+2026-03-06 11:34:26,199 - INFO - Start category Fantasy from page 1
+2026-03-06 11:34:26,969 - INFO - Completed Fantasy|1; added 19 books; total 67
+2026-03-06 11:34:27,671 - INFO - Completed Fantasy|2; added 20 books; total 87
+2026-03-06 11:34:28,044 - INFO - Completed Fantasy|3; added 8 books; total 95
+2026-03-06 11:34:38,932 - INFO - Pipeline completed successfully
+2026-03-06 11:59:00,970 - INFO - robots.txt check for http://books.toscrape.com/catalogue/page-1.html: True
+2026-03-06 11:59:01,644 - INFO - Start category Mystery from page 3
+2026-03-06 11:59:01,995 - INFO - Completed Mystery|3; added 0 books; total 95
+2026-03-06 11:59:01,997 - INFO - Start category Science Fiction from page 2
+2026-03-06 11:59:02,391 - INFO - Completed Science Fiction|2; added 0 books; total 95
+2026-03-06 11:59:02,392 - INFO - Start category Fantasy from page 4
+2026-03-06 11:59:02,428 - INFO - Pipeline completed successfully
+2026-03-06 12:08:28,253 - INFO - robots.txt check for http://books.toscrape.com/catalogue/page-1.html: True
+2026-03-06 12:08:28,926 - INFO - Start category Mystery from page 4
+2026-03-06 12:08:28,926 - INFO - Start category Science Fiction from page 3
+2026-03-06 12:08:29,189 - INFO - Completed Science Fiction|3; added 0 books; total 95
+2026-03-06 12:08:29,189 - INFO - Start category Fantasy from page 4
+2026-03-06 12:08:29,224 - INFO - pipeline completed successfully
+2026-03-06 13:03:53,329 - INFO - robots.txt check for http://books.toscrape.com/catalogue/page-1.html: True
+2026-03-06 13:03:54,027 - INFO - start category Mystery from page 4
+2026-03-06 13:03:54,027 - INFO - start category Science Fiction from page 4
+2026-03-06 13:03:54,027 - INFO - start category Fantasy from page 4
+2026-03-06 13:03:54,064 - INFO - pipeline completed successfully

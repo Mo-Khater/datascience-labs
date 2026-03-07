@@ -1,0 +1,4 @@
+source_id,source_name,source_type
+1,library.db,database
+2,GitHub API,api
+3,Books to Scrape,web

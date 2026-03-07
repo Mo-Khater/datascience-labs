@@ -1,0 +1,4 @@
+id,source_type,records_collected,status,error_message,timestamp
+1,database,0,error,Execution failed on sql 'SELECT * FROM books WHERE rating > 4': no such column: rating,2026-03-06 11:22:40
+2,api,1,success,,2026-03-06 11:22:40
+3,web,1,success,,2026-03-06 11:22:41

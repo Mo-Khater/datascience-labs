@@ -1,0 +1,5 @@
+2026-03-06 13:22:40,036 - __main__ - INFO - Pipeline initialized
+2026-03-06 13:22:40,039 - __main__ - INFO - Collecting from database: library.db
+2026-03-06 13:22:40,083 - __main__ - INFO - Collecting from API: https://api.github.com/repos/pandas-dev/pandas
+2026-03-06 13:22:40,745 - __main__ - INFO - Scraping: http://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html
+2026-03-06 13:22:41,356 - __main__ - INFO - Pipeline closed

@@ -1,0 +1,5 @@
+total number of books: 95
+books per category:
+- Fantasy: 47
+- Mystery: 32
+- Science Fiction: 16

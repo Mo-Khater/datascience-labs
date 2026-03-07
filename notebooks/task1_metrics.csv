@@ -1,0 +1,4 @@
+name,age_days,stars_per_day,issues_per_star_ratio
+tensorflow/tensorflow,3772,51.43398727465536,0.0186
+pytorch/pytorch,3492,28.061569301260022,0.1846
+scikit-learn/scikit-learn,5680,11.497535211267605,0.0327

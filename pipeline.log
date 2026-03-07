@@ -1,0 +1,13 @@
+2026-03-06 13:35:44,486 - DataCollectionPipeline - INFO - Pipeline initialized with DB: market_intelligence.db
+2026-03-06 13:35:44,486 - DataCollectionPipeline - INFO - Running integrated pipeline
+2026-03-06 13:35:44,486 - DataCollectionPipeline - INFO - Starting database collection from notebooks\library.db
+2026-03-06 13:35:44,550 - DataCollectionPipeline - INFO - Database collection completed: 10 books
+2026-03-06 13:35:44,554 - DataCollectionPipeline - INFO - Starting GitHub API collection
+2026-03-06 13:35:52,479 - DataCollectionPipeline - INFO - API collection completed: 67 repositories
+2026-03-06 13:35:52,496 - DataCollectionPipeline - INFO - Starting web collection for 8 categories
+2026-03-06 13:36:14,288 - DataCollectionPipeline - INFO - Web collection completed: 219 books
+2026-03-06 13:36:14,400 - DataCollectionPipeline - INFO - Exported all tables to exports
+2026-03-06 13:36:14,400 - DataCollectionPipeline - INFO - Generating analysis report at analysis.html
+2026-03-06 13:36:18,835 - DataCollectionPipeline - INFO - Analysis report generated with 6 visualizations
+2026-03-06 13:36:18,835 - DataCollectionPipeline - INFO - Integrated pipeline finished
+2026-03-06 13:36:18,843 - DataCollectionPipeline - INFO - Pipeline closed

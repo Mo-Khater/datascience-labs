@@ -1,0 +1,5 @@
+most used programming language: C
+average stars per repository: 21148.09
+total forks of all repos: 61826
+most recently updated repo: torvalds/linux
+oldest repo: torvalds/linux
