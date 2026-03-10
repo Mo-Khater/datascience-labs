@@ -27,3 +27,8 @@
 2026-03-06 13:03:54,027 - INFO - start category Science Fiction from page 4
 2026-03-06 13:03:54,027 - INFO - start category Fantasy from page 4
 2026-03-06 13:03:54,064 - INFO - pipeline completed successfully
+2026-03-08 12:56:22,549 - INFO - robots.txt check for http://books.toscrape.com/catalogue/page-1.html: True
+2026-03-08 12:56:23,585 - INFO - start category Mystery from page 4
+2026-03-08 12:56:23,585 - INFO - start category Science Fiction from page 4
+2026-03-08 12:56:23,585 - INFO - start category Fantasy from page 4
+2026-03-08 12:56:23,645 - INFO - pipeline completed successfully

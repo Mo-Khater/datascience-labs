@@ -1,6 +1,6 @@
-author_id,name,email,country,birth_year
-1,Naguib Mahfouz,mahfouz@literature.eg,Egypt,1911
-2,Taha Hussein,taha@literature.eg,Egypt,1889
-3,Nawal El Saadawi,nawal@literature.eg,Egypt,1931
-4,Alaa Al Aswany,alaa@literature.eg,Egypt,1957
-5,Ahdaf Soueif,ahdaf@literature.eg,Egypt,1950
+author_id,name
+1,Naguib Mahfouz
+2,Taha Hussein
+3,Nawal El Saadawi
+4,Alaa Al Aswany
+5,Ahdaf Soueif

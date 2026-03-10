@@ -1,0 +1,23 @@
+2026-03-10 18:50:47,345 - INFO - robots.txt check for http://books.toscrape.com/catalogue/page-1.html: True
+2026-03-10 18:50:47,966 - INFO - start category Mystery from page 1
+2026-03-10 18:50:48,320 - INFO - completed Mystery|1; added 20 books; total 20
+2026-03-10 18:50:48,582 - INFO - completed Mystery|2; added 32 books; total 32
+2026-03-10 18:50:48,582 - INFO - start category Science Fiction from page 1
+2026-03-10 18:50:48,814 - INFO - completed Science Fiction|1; added 48 books; total 48
+2026-03-10 18:50:48,814 - INFO - start category Fantasy from page 1
+2026-03-10 18:50:49,049 - INFO - completed Fantasy|1; added 68 books; total 68
+2026-03-10 18:50:49,349 - INFO - completed Fantasy|2; added 88 books; total 88
+2026-03-10 18:50:49,570 - INFO - completed Fantasy|3; added 96 books; total 96
+2026-03-10 18:53:43,151 - INFO - robots.txt check for http://books.toscrape.com/catalogue/page-1.html: True
+2026-03-10 18:53:43,938 - INFO - start category Mystery from page 3
+2026-03-10 18:53:44,349 - INFO - completed Mystery|3; added 116 books; total 116
+2026-03-10 18:53:44,349 - INFO - start category Science Fiction from page 2
+2026-03-10 18:53:44,605 - INFO - completed Science Fiction|2; added 132 books; total 132
+2026-03-10 18:53:44,605 - INFO - start category Fantasy from page 4
+2026-03-10 18:53:45,006 - INFO - pipeline completed successfully
+2026-03-10 18:57:20,522 - INFO - robots.txt check for http://books.toscrape.com/catalogue/page-1.html: True
+2026-03-10 18:57:21,171 - INFO - start category Mystery from page 4
+2026-03-10 18:57:21,171 - INFO - start category Science Fiction from page 3
+2026-03-10 18:57:21,529 - INFO - completed Science Fiction|3; added 148 books; total 148
+2026-03-10 18:57:21,529 - INFO - start category Fantasy from page 4
+2026-03-10 18:57:21,911 - INFO - pipeline completed successfully

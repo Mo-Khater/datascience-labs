@@ -11,3 +11,224 @@
 2026-03-06 13:36:18,835 - DataCollectionPipeline - INFO - Analysis report generated with 6 visualizations
 2026-03-06 13:36:18,835 - DataCollectionPipeline - INFO - Integrated pipeline finished
 2026-03-06 13:36:18,843 - DataCollectionPipeline - INFO - Pipeline closed
+2026-03-10 20:49:43,032 - DataCollectionPipeline - INFO - pipeline get initialized with DB: market_intelligence.db
+2026-03-10 20:49:43,032 - DataCollectionPipeline - INFO - Running integrated pipeline
+2026-03-10 20:49:43,032 - DataCollectionPipeline - INFO - starting database collection from notebooks\library.db
+2026-03-10 20:49:43,162 - DataCollectionPipeline - INFO - database collection completed: 10 books
+2026-03-10 20:49:43,167 - DataCollectionPipeline - INFO - starting git api collection
+2026-03-10 20:49:52,166 - DataCollectionPipeline - ERROR - API collection failed: FOREIGN KEY constraint failed
+Traceback (most recent call last):
+  File "e:\datascience_labs\Lab03 - Data Acquisition-20260305T144035Z-3-001\Lab03 - Data Acquisition\final_project.py", line 291, in collect_from_api
+    self.conn.executemany(
+sqlite3.IntegrityError: FOREIGN KEY constraint failed
+2026-03-10 20:49:52,166 - DataCollectionPipeline - INFO - Starting web collection for 8 categories
+2026-03-10 20:50:11,760 - DataCollectionPipeline - INFO - Pipeline closed
+2026-03-10 20:50:14,815 - DataCollectionPipeline - INFO - pipeline get initialized with DB: market_intelligence.db
+2026-03-10 20:50:14,815 - DataCollectionPipeline - INFO - Running integrated pipeline
+2026-03-10 20:50:14,815 - DataCollectionPipeline - INFO - starting database collection from notebooks\library.db
+2026-03-10 20:50:14,907 - DataCollectionPipeline - INFO - database collection completed: 10 books
+2026-03-10 20:50:14,914 - DataCollectionPipeline - INFO - starting git api collection
+2026-03-10 20:50:19,785 - DataCollectionPipeline - ERROR - API collection failed: FOREIGN KEY constraint failed
+Traceback (most recent call last):
+  File "e:\datascience_labs\Lab03 - Data Acquisition-20260305T144035Z-3-001\Lab03 - Data Acquisition\final_project.py", line 291, in collect_from_api
+    self.conn.executemany(
+sqlite3.IntegrityError: FOREIGN KEY constraint failed
+2026-03-10 20:50:19,785 - DataCollectionPipeline - INFO - Starting web collection for 8 categories
+2026-03-10 20:50:22,857 - DataCollectionPipeline - INFO - Pipeline closed
+2026-03-10 21:14:19,776 - DataCollectionPipeline - INFO - pipeline get initialized with DB: market_intelligence.db
+2026-03-10 21:14:19,777 - DataCollectionPipeline - INFO - Running integrated pipeline
+2026-03-10 21:14:19,777 - DataCollectionPipeline - INFO - starting database collection from notebooks\library.db
+2026-03-10 21:14:19,844 - DataCollectionPipeline - INFO - database collection completed: 10 books
+2026-03-10 21:14:19,849 - DataCollectionPipeline - INFO - starting git api collection
+2026-03-10 21:14:28,157 - DataCollectionPipeline - ERROR - API collection failed: 13 values for 12 columns
+Traceback (most recent call last):
+  File "e:\datascience_labs\Lab03 - Data Acquisition-20260305T144035Z-3-001\Lab03 - Data Acquisition\final_project.py", line 290, in collect_from_api
+    self.conn.executemany(
+sqlite3.OperationalError: 13 values for 12 columns
+2026-03-10 21:14:28,165 - DataCollectionPipeline - INFO - Starting web collection for 8 categories
+2026-03-10 21:14:47,076 - DataCollectionPipeline - INFO - Web collection completed: 219 books
+2026-03-10 21:14:47,122 - DataCollectionPipeline - INFO - Exported all tables to exports
+2026-03-10 21:14:47,122 - DataCollectionPipeline - INFO - generating analysis report at analysis.html
+2026-03-10 21:14:49,187 - DataCollectionPipeline - INFO - Analysis report generated with 6 visualizations
+2026-03-10 21:14:49,187 - DataCollectionPipeline - INFO - Integrated pipeline finished
+2026-03-10 21:14:49,188 - DataCollectionPipeline - INFO - Pipeline closed
+2026-03-10 21:18:45,877 - DataCollectionPipeline - INFO - pipeline get initialized with DB: market_intelligence.db
+2026-03-10 21:18:45,877 - DataCollectionPipeline - INFO - Running integrated pipeline
+2026-03-10 21:18:45,879 - DataCollectionPipeline - INFO - starting database collection from notebooks\library.db
+2026-03-10 21:18:45,976 - DataCollectionPipeline - INFO - database collection completed: 10 books
+2026-03-10 21:18:45,982 - DataCollectionPipeline - INFO - starting git api collection
+2026-03-10 21:18:54,189 - DataCollectionPipeline - ERROR - API collection failed: NOT NULL constraint failed: github_repositories.repo_name
+Traceback (most recent call last):
+  File "e:\datascience_labs\Lab03 - Data Acquisition-20260305T144035Z-3-001\Lab03 - Data Acquisition\final_project.py", line 290, in collect_from_api
+    self.conn.executemany(
+sqlite3.IntegrityError: NOT NULL constraint failed: github_repositories.repo_name
+2026-03-10 21:18:54,189 - DataCollectionPipeline - INFO - Starting web collection for 8 categories
+2026-03-10 21:19:11,766 - DataCollectionPipeline - INFO - Web collection completed: 219 books
+2026-03-10 21:19:11,813 - DataCollectionPipeline - INFO - Exported all tables to exports
+2026-03-10 21:19:11,814 - DataCollectionPipeline - INFO - generating analysis report at analysis.html
+2026-03-10 21:19:14,194 - DataCollectionPipeline - INFO - Analysis report generated with 6 visualizations
+2026-03-10 21:19:14,195 - DataCollectionPipeline - INFO - Integrated pipeline finished
+2026-03-10 21:19:14,196 - DataCollectionPipeline - INFO - Pipeline closed
+2026-03-10 21:24:44,712 - DataCollectionPipeline - INFO - pipeline get initialized with DB: market_intelligence.db
+2026-03-10 21:24:44,712 - DataCollectionPipeline - INFO - Running integrated pipeline
+2026-03-10 21:24:44,712 - DataCollectionPipeline - INFO - starting database collection from notebooks\library.db
+2026-03-10 21:24:44,803 - DataCollectionPipeline - INFO - database collection completed: 10 books
+2026-03-10 21:24:44,809 - DataCollectionPipeline - INFO - starting git api collection
+2026-03-10 21:24:52,727 - DataCollectionPipeline - ERROR - API collection failed: 13 values for 12 columns
+Traceback (most recent call last):
+  File "e:\datascience_labs\Lab03 - Data Acquisition-20260305T144035Z-3-001\Lab03 - Data Acquisition\final_project.py", line 291, in collect_from_api
+    self.conn.executemany(
+sqlite3.OperationalError: 13 values for 12 columns
+2026-03-10 21:24:52,734 - DataCollectionPipeline - INFO - Starting web collection for 8 categories
+2026-03-10 21:25:09,419 - DataCollectionPipeline - INFO - Web collection completed: 219 books
+2026-03-10 21:25:09,467 - DataCollectionPipeline - INFO - Exported all tables to exports
+2026-03-10 21:25:09,469 - DataCollectionPipeline - INFO - generating analysis report at analysis.html
+2026-03-10 21:25:12,257 - DataCollectionPipeline - INFO - Analysis report generated with 6 visualizations
+2026-03-10 21:25:12,257 - DataCollectionPipeline - INFO - Integrated pipeline finished
+2026-03-10 21:25:12,259 - DataCollectionPipeline - INFO - Pipeline closed
+2026-03-10 21:26:19,187 - DataCollectionPipeline - INFO - pipeline get initialized with DB: market_intelligence.db
+2026-03-10 21:26:19,188 - DataCollectionPipeline - INFO - Running integrated pipeline
+2026-03-10 21:26:19,188 - DataCollectionPipeline - INFO - starting database collection from notebooks\library.db
+2026-03-10 21:26:19,282 - DataCollectionPipeline - INFO - database collection completed: 10 books
+2026-03-10 21:26:19,287 - DataCollectionPipeline - INFO - starting git api collection
+2026-03-10 21:26:27,400 - DataCollectionPipeline - ERROR - API collection failed: FOREIGN KEY constraint failed
+Traceback (most recent call last):
+  File "e:\datascience_labs\Lab03 - Data Acquisition-20260305T144035Z-3-001\Lab03 - Data Acquisition\final_project.py", line 291, in collect_from_api
+    self.conn.executemany(
+sqlite3.IntegrityError: FOREIGN KEY constraint failed
+2026-03-10 21:26:27,407 - DataCollectionPipeline - INFO - Starting web collection for 8 categories
+2026-03-10 21:26:45,280 - DataCollectionPipeline - INFO - Web collection completed: 219 books
+2026-03-10 21:26:45,339 - DataCollectionPipeline - INFO - Exported all tables to exports
+2026-03-10 21:26:45,339 - DataCollectionPipeline - INFO - generating analysis report at analysis.html
+2026-03-10 21:26:47,623 - DataCollectionPipeline - INFO - Analysis report generated with 6 visualizations
+2026-03-10 21:26:47,623 - DataCollectionPipeline - INFO - Integrated pipeline finished
+2026-03-10 21:26:47,625 - DataCollectionPipeline - INFO - Pipeline closed
+2026-03-10 21:55:48,736 - DataCollectionPipeline - INFO - pipeline get initialized with DB: market_intelligence.db
+2026-03-10 21:55:48,736 - DataCollectionPipeline - INFO - Running integrated pipeline
+2026-03-10 21:55:48,737 - DataCollectionPipeline - INFO - starting database collection from notebooks\library.db
+2026-03-10 21:55:48,739 - DataCollectionPipeline - ERROR - DB collection failed: Execution failed on sql 'select b.book_id,b.title,b.author_id,b.publication_year,b.genre,FROM books b': near "FROM": syntax error
+Traceback (most recent call last):
+  File "C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\io\sql.py", line 2664, in execute
+    cur.execute(sql, *args)
+sqlite3.OperationalError: near "FROM": syntax error
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "e:\datascience_labs\Lab03 - Data Acquisition-20260305T144035Z-3-001\Lab03 - Data Acquisition\final_project.py", line 173, in collect_from_database
+    books = pd.read_sql_query(
+            ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\io\sql.py", line 528, in read_sql_query
+    return pandas_sql.read_query(
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\io\sql.py", line 2728, in read_query
+    cursor = self.execute(sql, params)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\io\sql.py", line 2676, in execute
+    raise ex from exc
+pandas.errors.DatabaseError: Execution failed on sql 'select b.book_id,b.title,b.author_id,b.publication_year,b.genre,FROM books b': near "FROM": syntax error
+2026-03-10 21:55:48,751 - DataCollectionPipeline - INFO - starting git api collection
+2026-03-10 21:55:56,857 - DataCollectionPipeline - ERROR - API collection failed: 5 values for 4 columns
+Traceback (most recent call last):
+  File "e:\datascience_labs\Lab03 - Data Acquisition-20260305T144035Z-3-001\Lab03 - Data Acquisition\final_project.py", line 270, in collect_from_api
+    self.conn.executemany(
+sqlite3.OperationalError: 5 values for 4 columns
+2026-03-10 21:55:56,864 - DataCollectionPipeline - INFO - Starting web collection for 8 categories
+2026-03-10 21:56:14,480 - DataCollectionPipeline - INFO - Web collection completed: 219 books
+2026-03-10 21:56:14,484 - DataCollectionPipeline - ERROR - Web collection failed: 7 columns passed, passed data had 5 columns
+Traceback (most recent call last):
+  File "C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\internals\construction.py", line 939, in _finalize_columns_and_data
+    columns = _validate_or_indexify_columns(contents, columns)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\internals\construction.py", line 986, in _validate_or_indexify_columns
+    raise AssertionError(
+AssertionError: 7 columns passed, passed data had 5 columns
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "e:\datascience_labs\Lab03 - Data Acquisition-20260305T144035Z-3-001\Lab03 - Data Acquisition\final_project.py", line 363, in collect_from_web
+    return pd.DataFrame(rows, columns=["title","price","rating","availability","category_id","product_url","source_id"])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\frame.py", line 851, in __init__
+    arrays, columns, index = nested_data_to_arrays(
+                             ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\internals\construction.py", line 520, in nested_data_to_arrays
+    arrays, columns = to_arrays(data, columns, dtype=dtype)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\internals\construction.py", line 845, in to_arrays
+    content, columns = _finalize_columns_and_data(arr, columns, dtype)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\internals\construction.py", line 942, in _finalize_columns_and_data
+    raise ValueError(err) from err
+ValueError: 7 columns passed, passed data had 5 columns
+2026-03-10 21:56:14,585 - DataCollectionPipeline - INFO - Exported all tables to exports
+2026-03-10 21:56:14,585 - DataCollectionPipeline - INFO - generating analysis report at analysis.html
+2026-03-10 21:56:17,363 - DataCollectionPipeline - INFO - Analysis report generated with 6 visualizations
+2026-03-10 21:56:17,363 - DataCollectionPipeline - INFO - Integrated pipeline finished
+2026-03-10 21:56:17,363 - DataCollectionPipeline - INFO - Pipeline closed
+2026-03-10 22:04:05,865 - DataCollectionPipeline - INFO - pipeline get initialized with DB: market_intelligence.db
+2026-03-10 22:04:05,865 - DataCollectionPipeline - INFO - Running integrated pipeline
+2026-03-10 22:04:05,865 - DataCollectionPipeline - INFO - starting database collection from notebooks\library.db
+2026-03-10 22:04:05,870 - DataCollectionPipeline - ERROR - DB collection failed: Execution failed on sql 'select b.book_id,b.title,b.author_id,b.publication_year,b.genreFROM books b': near "b": syntax error
+Traceback (most recent call last):
+  File "C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\io\sql.py", line 2664, in execute
+    cur.execute(sql, *args)
+sqlite3.OperationalError: near "b": syntax error
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "e:\datascience_labs\Lab03 - Data Acquisition-20260305T144035Z-3-001\Lab03 - Data Acquisition\final_project.py", line 173, in collect_from_database
+    books = pd.read_sql_query(
+            ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\io\sql.py", line 528, in read_sql_query
+    return pandas_sql.read_query(
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\io\sql.py", line 2728, in read_query
+    cursor = self.execute(sql, params)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\io\sql.py", line 2676, in execute
+    raise ex from exc
+pandas.errors.DatabaseError: Execution failed on sql 'select b.book_id,b.title,b.author_id,b.publication_year,b.genreFROM books b': near "b": syntax error
+2026-03-10 22:04:05,877 - DataCollectionPipeline - INFO - starting git api collection
+2026-03-10 22:04:13,755 - DataCollectionPipeline - ERROR - API collection failed: NOT NULL constraint failed: github_repositories.repo_name
+Traceback (most recent call last):
+  File "e:\datascience_labs\Lab03 - Data Acquisition-20260305T144035Z-3-001\Lab03 - Data Acquisition\final_project.py", line 270, in collect_from_api
+    self.conn.executemany(
+sqlite3.IntegrityError: NOT NULL constraint failed: github_repositories.repo_name
+2026-03-10 22:04:13,763 - DataCollectionPipeline - INFO - Starting web collection for 8 categories
+2026-03-10 22:04:31,540 - DataCollectionPipeline - INFO - Web collection completed: 219 books
+2026-03-10 22:04:31,722 - DataCollectionPipeline - INFO - Exported all tables to exports
+2026-03-10 22:04:31,722 - DataCollectionPipeline - INFO - generating analysis report at analysis.html
+2026-03-10 22:04:34,579 - DataCollectionPipeline - INFO - Analysis report generated with 6 visualizations
+2026-03-10 22:04:34,579 - DataCollectionPipeline - INFO - Integrated pipeline finished
+2026-03-10 22:04:34,584 - DataCollectionPipeline - INFO - Pipeline closed
+2026-03-10 22:04:50,381 - DataCollectionPipeline - INFO - pipeline get initialized with DB: market_intelligence.db
+2026-03-10 22:04:50,382 - DataCollectionPipeline - INFO - Running integrated pipeline
+2026-03-10 22:04:50,382 - DataCollectionPipeline - INFO - starting database collection from notebooks\library.db
+2026-03-10 22:04:55,888 - DataCollectionPipeline - INFO - database collection completed: 10 books
+2026-03-10 22:04:56,320 - DataCollectionPipeline - INFO - starting git api collection
+2026-03-10 22:05:04,527 - DataCollectionPipeline - ERROR - API collection failed: NOT NULL constraint failed: github_repositories.repo_name
+Traceback (most recent call last):
+  File "e:\datascience_labs\Lab03 - Data Acquisition-20260305T144035Z-3-001\Lab03 - Data Acquisition\final_project.py", line 269, in collect_from_api
+    self.conn.executemany(
+sqlite3.IntegrityError: NOT NULL constraint failed: github_repositories.repo_name
+2026-03-10 22:05:04,534 - DataCollectionPipeline - INFO - Starting web collection for 8 categories
+2026-03-10 22:05:22,030 - DataCollectionPipeline - INFO - Web collection completed: 219 books
+2026-03-10 22:05:22,123 - DataCollectionPipeline - INFO - Exported all tables to exports
+2026-03-10 22:05:22,123 - DataCollectionPipeline - INFO - generating analysis report at analysis.html
+2026-03-10 22:05:23,910 - DataCollectionPipeline - INFO - Pipeline closed
+2026-03-10 22:08:13,335 - DataCollectionPipeline - INFO - pipeline get initialized with DB: market_intelligence.db
+2026-03-10 22:08:13,335 - DataCollectionPipeline - INFO - Running integrated pipeline
+2026-03-10 22:08:13,335 - DataCollectionPipeline - INFO - starting database collection from notebooks\library.db
+2026-03-10 22:08:13,410 - DataCollectionPipeline - INFO - database collection completed: 10 books
+2026-03-10 22:08:13,413 - DataCollectionPipeline - INFO - starting git api collection
+2026-03-10 22:08:21,668 - DataCollectionPipeline - INFO - API collection completed: 66 repositories
+2026-03-10 22:08:21,674 - DataCollectionPipeline - INFO - Starting web collection for 8 categories
+2026-03-10 22:08:37,737 - DataCollectionPipeline - INFO - Web collection completed: 219 books
+2026-03-10 22:08:37,791 - DataCollectionPipeline - INFO - Exported all tables to exports
+2026-03-10 22:08:37,792 - DataCollectionPipeline - INFO - generating analysis report at analysis.html
+2026-03-10 22:08:40,258 - DataCollectionPipeline - INFO - Analysis report generated with 6 visualizations
+2026-03-10 22:08:40,258 - DataCollectionPipeline - INFO - Integrated pipeline finished
+2026-03-10 22:08:40,261 - DataCollectionPipeline - INFO - Pipeline closed

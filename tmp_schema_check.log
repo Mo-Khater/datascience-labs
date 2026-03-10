@@ -1,0 +1,2 @@
+2026-03-10 21:59:34,644 - DataCollectionPipeline - INFO - pipeline get initialized with DB: tmp_schema_check.db
+2026-03-10 21:59:34,646 - DataCollectionPipeline - INFO - Pipeline closed

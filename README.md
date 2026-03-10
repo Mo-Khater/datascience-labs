@@ -1,13 +1,11 @@
 # Book Market Intelligence System
 
-This is the final integrated project for **Part 4: Integrated Data Pipeline**.
-
 ## What It Does
 
 `final_project.py` builds an end-to-end pipeline that collects and integrates data from:
 
-1. **Database**: `notebooks/library.db` (Part 1)
-2. **API**: GitHub Search API (book-related repositories)
+1. **Database**: `notebooks/library.db`
+2. **API**: GitHub Search API 
 3. **Web**: [books.toscrape.com](http://books.toscrape.com) categories
 
 The pipeline stores everything in `market_intelligence.db`, exports CSV snapshots, and creates `analysis.html` with visual insights.

@@ -1,6 +1,5 @@
 {
-  "generated_at_utc": "2026-03-08T10:56:23.630580",
-  "total_books": 95,
+  "saved_at": "2026-03-10T18:57:21.525098",
   "books": [
     {
       "title": "Sharp Objects",
@@ -458,6 +457,13 @@
       "category": "Fantasy"
     },
     {
+      "title": "The Star-Touched Queen",
+      "price": 32.3,
+      "rating": 5,
+      "availability": "In stock",
+      "category": "Fantasy"
+    },
+    {
       "title": "A Shard of Ice (The Black Symphony Saga #1)",
       "price": 56.63,
       "rating": 3,
@@ -666,6 +672,395 @@
       "rating": 4,
       "availability": "In stock",
       "category": "Fantasy"
+    },
+    {
+      "title": "Sharp Objects",
+      "price": 47.82,
+      "rating": 4,
+      "availability": "In stock",
+      "category": "Mystery"
+    },
+    {
+      "title": "In a Dark, Dark Wood",
+      "price": 19.63,
+      "rating": 1,
+      "availability": "In stock",
+      "category": "Mystery"
+    },
+    {
+      "title": "The Past Never Ends",
+      "price": 56.5,
+      "rating": 4,
+      "availability": "In stock",
+      "category": "Mystery"
+    },
+    {
+      "title": "A Murder in Time",
+      "price": 16.64,
+      "rating": 1,
+      "availability": "In stock",
+      "category": "Mystery"
+    },
+    {
+      "title": "The Murder of Roger Ackroyd (Hercule Poirot #4)",
+      "price": 44.1,
+      "rating": 4,
+      "availability": "In stock",
+      "category": "Mystery"
+    },
+    {
+      "title": "The Last Mile (Amos Decker #2)",
+      "price": 54.21,
+      "rating": 2,
+      "availability": "In stock",
+      "category": "Mystery"
+    },
+    {
+      "title": "That Darkness (Gardiner and Renner #1)",
+      "price": 13.92,
+      "rating": 1,
+      "availability": "In stock",
+      "category": "Mystery"
+    },
+    {
+      "title": "Tastes Like Fear (DI Marnie Rome #3)",
+      "price": 10.69,
+      "rating": 1,
+      "availability": "In stock",
+      "category": "Mystery"
+    },
+    {
+      "title": "A Time of Torment (Charlie Parker #14)",
+      "price": 48.35,
+      "rating": 5,
+      "availability": "In stock",
+      "category": "Mystery"
+    },
+    {
+      "title": "A Study in Scarlet (Sherlock Holmes #1)",
+      "price": 16.73,
+      "rating": 2,
+      "availability": "In stock",
+      "category": "Mystery"
+    },
+    {
+      "title": "Poisonous (Max Revere Novels #3)",
+      "price": 26.8,
+      "rating": 3,
+      "availability": "In stock",
+      "category": "Mystery"
+    },
+    {
+      "title": "Murder at the 42nd Street Library (Raymond Ambler #1)",
+      "price": 54.36,
+      "rating": 4,
+      "availability": "In stock",
+      "category": "Mystery"
+    },
+    {
+      "title": "Most Wanted",
+      "price": 35.28,
+      "rating": 3,
+      "availability": "In stock",
+      "category": "Mystery"
+    },
+    {
+      "title": "Hide Away (Eve Duncan #20)",
+      "price": 11.84,
+      "rating": 1,
+      "availability": "In stock",
+      "category": "Mystery"
+    },
+    {
+      "title": "Boar Island (Anna Pigeon #19)",
+      "price": 59.48,
+      "rating": 3,
+      "availability": "In stock",
+      "category": "Mystery"
+    },
+    {
+      "title": "The Widow",
+      "price": 27.26,
+      "rating": 2,
+      "availability": "In stock",
+      "category": "Mystery"
+    },
+    {
+      "title": "Playing with Fire",
+      "price": 13.71,
+      "rating": 3,
+      "availability": "In stock",
+      "category": "Mystery"
+    },
+    {
+      "title": "What Happened on Beale Street (Secrets of the South Mysteries #2)",
+      "price": 25.37,
+      "rating": 5,
+      "availability": "In stock",
+      "category": "Mystery"
+    },
+    {
+      "title": "The Bachelor Girl's Guide to Murder (Herringford and Watts Mysteries #1)",
+      "price": 52.3,
+      "rating": 5,
+      "availability": "In stock",
+      "category": "Mystery"
+    },
+    {
+      "title": "Delivering the Truth (Quaker Midwife Mystery #1)",
+      "price": 20.89,
+      "rating": 4,
+      "availability": "In stock",
+      "category": "Mystery"
+    },
+    {
+      "title": "Mesaerion: The Best Science Fiction Stories 1800-1849",
+      "price": 37.59,
+      "rating": 1,
+      "availability": "In stock",
+      "category": "Science Fiction"
+    },
+    {
+      "title": "Join",
+      "price": 35.67,
+      "rating": 5,
+      "availability": "In stock",
+      "category": "Science Fiction"
+    },
+    {
+      "title": "William Shakespeare's Star Wars: Verily, A New Hope (William Shakespeare's Star Wars #4)",
+      "price": 43.3,
+      "rating": 4,
+      "availability": "In stock",
+      "category": "Science Fiction"
+    },
+    {
+      "title": "The Project",
+      "price": 10.65,
+      "rating": 1,
+      "availability": "In stock",
+      "category": "Science Fiction"
+    },
+    {
+      "title": "Soft Apocalypse",
+      "price": 26.12,
+      "rating": 2,
+      "availability": "In stock",
+      "category": "Science Fiction"
+    },
+    {
+      "title": "Sleeping Giants (Themis Files #1)",
+      "price": 48.74,
+      "rating": 1,
+      "availability": "In stock",
+      "category": "Science Fiction"
+    },
+    {
+      "title": "Arena",
+      "price": 21.36,
+      "rating": 4,
+      "availability": "In stock",
+      "category": "Science Fiction"
+    },
+    {
+      "title": "Foundation (Foundation (Publication Order) #1)",
+      "price": 32.42,
+      "rating": 1,
+      "availability": "In stock",
+      "category": "Science Fiction"
+    },
+    {
+      "title": "The Restaurant at the End of the Universe (Hitchhiker's Guide to the Galaxy #2)",
+      "price": 10.92,
+      "rating": 1,
+      "availability": "In stock",
+      "category": "Science Fiction"
+    },
+    {
+      "title": "Ready Player One",
+      "price": 19.07,
+      "rating": 4,
+      "availability": "In stock",
+      "category": "Science Fiction"
+    },
+    {
+      "title": "Life, the Universe and Everything (Hitchhiker's Guide to the Galaxy #3)",
+      "price": 33.26,
+      "rating": 2,
+      "availability": "In stock",
+      "category": "Science Fiction"
+    },
+    {
+      "title": "Dune (Dune #1)",
+      "price": 54.86,
+      "rating": 1,
+      "availability": "In stock",
+      "category": "Science Fiction"
+    },
+    {
+      "title": "Do Androids Dream of Electric Sheep? (Blade Runner #1)",
+      "price": 51.48,
+      "rating": 1,
+      "availability": "In stock",
+      "category": "Science Fiction"
+    },
+    {
+      "title": "Three Wishes (River of Time: California #1)",
+      "price": 44.18,
+      "rating": 2,
+      "availability": "In stock",
+      "category": "Science Fiction"
+    },
+    {
+      "title": "The Last Girl (The Dominion Trilogy #1)",
+      "price": 36.26,
+      "rating": 2,
+      "availability": "In stock",
+      "category": "Science Fiction"
+    },
+    {
+      "title": "Having the Barbarian's Baby (Ice Planet Barbarians #7.5)",
+      "price": 34.96,
+      "rating": 4,
+      "availability": "In stock",
+      "category": "Science Fiction"
+    },
+    {
+      "title": "Mesaerion: The Best Science Fiction Stories 1800-1849",
+      "price": 37.59,
+      "rating": 1,
+      "availability": "In stock",
+      "category": "Science Fiction"
+    },
+    {
+      "title": "Join",
+      "price": 35.67,
+      "rating": 5,
+      "availability": "In stock",
+      "category": "Science Fiction"
+    },
+    {
+      "title": "William Shakespeare's Star Wars: Verily, A New Hope (William Shakespeare's Star Wars #4)",
+      "price": 43.3,
+      "rating": 4,
+      "availability": "In stock",
+      "category": "Science Fiction"
+    },
+    {
+      "title": "The Project",
+      "price": 10.65,
+      "rating": 1,
+      "availability": "In stock",
+      "category": "Science Fiction"
+    },
+    {
+      "title": "Soft Apocalypse",
+      "price": 26.12,
+      "rating": 2,
+      "availability": "In stock",
+      "category": "Science Fiction"
+    },
+    {
+      "title": "Sleeping Giants (Themis Files #1)",
+      "price": 48.74,
+      "rating": 1,
+      "availability": "In stock",
+      "category": "Science Fiction"
+    },
+    {
+      "title": "Arena",
+      "price": 21.36,
+      "rating": 4,
+      "availability": "In stock",
+      "category": "Science Fiction"
+    },
+    {
+      "title": "Foundation (Foundation (Publication Order) #1)",
+      "price": 32.42,
+      "rating": 1,
+      "availability": "In stock",
+      "category": "Science Fiction"
+    },
+    {
+      "title": "The Restaurant at the End of the Universe (Hitchhiker's Guide to the Galaxy #2)",
+      "price": 10.92,
+      "rating": 1,
+      "availability": "In stock",
+      "category": "Science Fiction"
+    },
+    {
+      "title": "Ready Player One",
+      "price": 19.07,
+      "rating": 4,
+      "availability": "In stock",
+      "category": "Science Fiction"
+    },
+    {
+      "title": "Life, the Universe and Everything (Hitchhiker's Guide to the Galaxy #3)",
+      "price": 33.26,
+      "rating": 2,
+      "availability": "In stock",
+      "category": "Science Fiction"
+    },
+    {
+      "title": "Dune (Dune #1)",
+      "price": 54.86,
+      "rating": 1,
+      "availability": "In stock",
+      "category": "Science Fiction"
+    },
+    {
+      "title": "Do Androids Dream of Electric Sheep? (Blade Runner #1)",
+      "price": 51.48,
+      "rating": 1,
+      "availability": "In stock",
+      "category": "Science Fiction"
+    },
+    {
+      "title": "Three Wishes (River of Time: California #1)",
+      "price": 44.18,
+      "rating": 2,
+      "availability": "In stock",
+      "category": "Science Fiction"
+    },
+    {
+      "title": "The Last Girl (The Dominion Trilogy #1)",
+      "price": 36.26,
+      "rating": 2,
+      "availability": "In stock",
+      "category": "Science Fiction"
+    },
+    {
+      "title": "Having the Barbarian's Baby (Ice Planet Barbarians #7.5)",
+      "price": 34.96,
+      "rating": 4,
+      "availability": "In stock",
+      "category": "Science Fiction"
     }
-  ]
+  ],
+  "state": {
+    "Mystery": {
+      "next_page": 4,
+      "next_url": "http://books.toscrape.com/catalogue/category/books/mystery_3/page-2.html"
+    },
+    "Science Fiction": {
+      "next_page": 4,
+      "next_url": null
+    },
+    "Fantasy": {
+      "next_page": 4,
+      "next_url": null
+    }
+  },
+  "progress_tracker": {
+    "Mystery|1": "completed",
+    "Mystery|2": "completed",
+    "Science Fiction|1": "completed",
+    "Fantasy|1": "completed",
+    "Fantasy|2": "completed",
+    "Fantasy|3": "completed",
+    "Mystery|3": "completed",
+    "Science Fiction|2": "completed",
+    "Science Fiction|3": "completed"
+  }
 }
